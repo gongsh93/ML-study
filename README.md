@@ -1,2 +1,2 @@
-# tensorflow-example
-Example source code for TensorFlow 
+# ML-study
+Example source code for Machine Learning
